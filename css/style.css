@@ -1,0 +1,10 @@
+$section-title-color: #150101;
+$section-background-color: #F2CEDA;
+$secondary-text-color:#000000;
+$section-text-secondary-color: #000000;
+$primary-background-color: #F8EDF0;
+$button-color: #D23166;
+$secondary-button-color: #FAFAFA;
+$footer-text-color:#FFFFFF;
+$transition-time: 250ms;
+$transition-function: cubic-bezier(0.4, 0, 0.2, 1);
